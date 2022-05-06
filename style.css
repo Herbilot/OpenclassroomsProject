@@ -1,0 +1,26 @@
+body{
+	background-color: lightgrey;
+	margin: 0 ;
+}
+
+header{
+	text-align: center;
+		color: white;
+	background-color: #000;
+	margin-bottom: 0;
+}
+section{
+	height: 80%;
+	background-size: cover;
+	font-size: 90px;
+}
+
+footer{
+	background-color: #000;
+	color: white;
+	padding: 20px 20px;
+	display: flex;
+	justify-content: space-between;
+	margin: 0;
+
+}
